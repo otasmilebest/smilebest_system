@@ -47,6 +47,7 @@ if (isset($_POST['entry'])) {
 	header("Location: ".url_chiryoin);
 //br2 test1
 	//br2 test2
+	//br2 test3
 	exit;
 }
 ?>
