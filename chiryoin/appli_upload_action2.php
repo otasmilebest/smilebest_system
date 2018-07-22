@@ -45,8 +45,7 @@ if (isset($_POST['entry'])) {
 	$_SESSION["uid"]=$_SESSION["lid"];
 	$_SESSION["eld"]="";
 	header("Location: ".url_chiryoin);
-//test1
-	//test2
+//br2 test1
 	exit;
 }
 ?>
