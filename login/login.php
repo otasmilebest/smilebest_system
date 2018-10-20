@@ -1,9 +1,10 @@
-<?php
+﻿<?php
 session_start();
 
 require_once 'login_model.php';
 require_once '../common/function.php';
 require_once '../common/const.php';
+
 
 //レスポンポンシブPCかスマホか
 if((strpos($ua,'iPhone')!==false)||(strpos($ua,'iPod')!==false)||(strpos($ua,'Android')!==false)) {
