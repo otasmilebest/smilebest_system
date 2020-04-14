@@ -23,5 +23,5 @@ define("HOST_NAME", "mysql1308.xserver.jp");
 
 
 define("NO", "NO");
-
+//
 
